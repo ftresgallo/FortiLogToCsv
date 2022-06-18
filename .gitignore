@@ -11,3 +11,4 @@ traffic.csv
 traffic.xlsx
 .vscode/launch.json
 FortiLogToCsv.class
+.gitignore
